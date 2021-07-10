@@ -1,4 +1,5 @@
 project (jotkacy)
+cmake_minimum_required(VERSION 3.15)
 
 #version number
 set (jotkacy_VERSION_MAJOR 1)
