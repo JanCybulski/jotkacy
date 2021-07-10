@@ -1,4 +1,4 @@
-project (jotkacy)
+project (jotkacy C)
 cmake_minimum_required(VERSION 3.15)
 
 #version number
